@@ -1,0 +1,34 @@
+1.Selenium is very handy and easy to learn. 
+You can write your own test cases using plain html!
+
+2.Since the Selenium version 2.53.1, there hasn't been a stable release
+ until the release of Selenium 3.0.0 beta 1 version in October 2016. 
+
+3.The latest version of Selenium is Selenium 3.3.1, 
+and was released on March 10, 2017.
+
+4.With the Selenium tool, the unit testing for the JavaScript can also be done.
+
+version 3:
+1.The minimum available version of Java is 8+ now.
+
+version 3.0.1
+1.Incorporates the ElementScrollBehavior enum in the release.
+  Returns an array containing the constants of this enum type, in the order they 
+  are declared.
+2.Firefox 47.0.0 is not at all supported.
+
+version 3.2
+1.Fixed an issue regarding starting the Firefox caused by the missing libraries.
+2. Enabled the customization of TestSlot (#3431).
+
+version 3.3
+1.Deployed `Capabilities.isJavascriptEnabled` method
+2.Bumped the HtmlUnitDriver version to 2.24.(supports http and https protocols,javascript)
+  A headless browser is a web-browser without a graphical user interface. 
+  This program will behave just like a browser but will not show any GUI. 
+
+  HTML UnitDriver is the most light weight and fastest implementation headless browser for of WebDriver. 
+  It is based on HtmlUnit. It is known as Headless Browser Driver.
+
+
